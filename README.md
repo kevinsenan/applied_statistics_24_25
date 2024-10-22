@@ -29,9 +29,9 @@ REFERENCES:
 
 [6] https://www.simplypsychology.org/boxplots.html
 
-[7] https://data.pldn.nl/linked-data-and-semantic-web-course/Iris
+[7] Wikipedia Contributors (2019). Lady tasting tea. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Lady_tasting_tea. [Accessed 14th Oct. 2024].
 
-[8] https://stackoverflow.com/tags/iris-dataset/info
+[8] www.w3schools.com. (n.d.). Python math.comb() Method. [online] Available at: https://www.w3schools.com/python/ref_math_comb.asp. [Accessed 15th Oct. 2024].
 
 [9] https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/479395842/Iris+Flower+Classification
 
