@@ -29,13 +29,13 @@ REFERENCES:
 
 [6] https://www.simplypsychology.org/boxplots.html
 
-[7] Wikipedia Contributors (2019). Lady tasting tea. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Lady_tasting_tea. [Accessed 14th Oct. 2024].
+[7] https://en.wikipedia.org/wiki/Lady_tasting_tea.
 
-[8] www.w3schools.com. (n.d.). Python math.comb() Method. [online] Available at: https://www.w3schools.com/python/ref_math_comb.asp. [Accessed 15th Oct. 2024].
+[8] https://www.w3schools.com/python/ref_math_comb.asp.
 
-[9] https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/479395842/Iris+Flower+Classification
+[9] https://docs.scipy.org/doc/scipy/reference/stats.html
 
-[10] https://www.linkedin.com/pulse/analysis-famous-beginner-project-iris-flower-dataset-ayushi-saxena
+[10] https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 
 [11] https://towardsdatascience.com/the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5
 
