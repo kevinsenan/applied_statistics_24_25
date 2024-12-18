@@ -41,6 +41,6 @@ Bibliography:
 
 [12] https://www.datacamp.com/tutorial/anova-test?dc_referrer=https%3A%2F%2Fwww.bing.com%2F
 
-[13] https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+[13] https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
 
-[14] https://en.wikipedia.org/wiki/Iris_flower_data_set
+[14] https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php
