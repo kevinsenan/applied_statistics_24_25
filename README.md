@@ -16,7 +16,7 @@ Be sure to make this your default Python
 Download the ipynb notebook from this repository
 Navigate to the folder you saved the notebook in and open the ipynb notebook in Anaconda
 
-REFERENCES:
+Bibliography:
 [1] https://www.geeksforgeeks.org/data-analysis-tutorial/
 
 [2] https://www.geeksforgeeks.org/interpretations-of-histogram/
@@ -37,9 +37,9 @@ REFERENCES:
 
 [10] https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 
-[11] https://towardsdatascience.com/the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5
+[11] https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/anova/
 
-[12] https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+[12] https://www.datacamp.com/tutorial/anova-test?dc_referrer=https%3A%2F%2Fwww.bing.com%2F
 
 [13] https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
